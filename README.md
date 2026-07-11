@@ -25,7 +25,7 @@ The laboratory environment includes:
 
 ## 🏗 Network Architecture
 
-> Network diagram will be added here.
+![Enterprise Network](diagrams/Enterprise-Network.png)
 
 ---
 
